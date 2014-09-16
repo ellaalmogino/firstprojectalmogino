@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# FirstProjectAlmogino
+#
+
+projectname: FirstProjectAlmogino
+vendorid: com.almogino
+mainmodule: com.almogino.firstprojectalmogino
